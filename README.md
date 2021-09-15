@@ -8,6 +8,8 @@
 6. Later need to find the index and middle finger
 7. To perform mouse moving action used autopy
 8. when the middle and index will become closer it will get clicked. The clicking operation performed based on the distance between middle and index finger
-9. ![image](https://user-images.githubusercontent.com/61477053/133412148-ae55505b-b6e5-465b-9654-5f5bd04b8611.png)
+9. ![image](https://user-images.githubusercontent.com/61477053/133412716-4eb50af8-10be-44c4-ab33-4d17724ee4ee.png)
+
+
 
 10. you need to run the notebook which provides the main operation and remaining like findpostion,find distance,finger up all these are implemented in 'handTrackingmodule.py' file
